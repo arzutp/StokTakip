@@ -1,0 +1,420 @@
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.exe
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorComponent.input.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.input.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.output.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.xml
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CopyComplete
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.deps.json
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.json
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\UrunStok1.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\Asus\Desktop\UrunStok\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.exe
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.deps.json
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.json
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorComponent.input.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\UrunStok1.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.input.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.output.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CopyComplete
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\Asus\Desktop\Yeni klasör (7)\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.exe
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.deps.json
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.json
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorComponent.input.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\UrunStok1.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.input.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.output.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CopyComplete
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.xml
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\Asus\Desktop\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.genruntimeconfig.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.exe
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.deps.json
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.json
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.runtimeconfig.dev.json
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csprojAssemblyReference.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfoInputs.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.AssemblyInfo.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CoreCompileInputs.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorComponent.input.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\RazorDeclaration\UrunStok1.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.input.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.TagHelpers.output.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorCoreGenerate.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorAssemblyInfo.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.RazorTargetAssemblyInfo.cs
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.Views.pdb
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.csproj.CopyComplete
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.Manifest.cache
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\staticwebassets\UrunStok1.StaticWebAssets.xml
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.dll
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.pdb
+C:\Users\ikahraman\Downloads\UrunStok1\UrunStok1\UrunStok1\obj\Debug\netcoreapp3.1\UrunStok1.genruntimeconfig.cache
